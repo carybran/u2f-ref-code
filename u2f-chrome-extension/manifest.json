@@ -76,6 +76,7 @@
     }
   ],
   "externally_connectable": {
+    "ids":["knnmajdjdohgiaafnapmebclkglfabcj"],
     "matches": [
       "https://crxjs-dot-u2fdemo.appspot.com/*"
     ],

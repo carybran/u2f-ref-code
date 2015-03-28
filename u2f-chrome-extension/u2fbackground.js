@@ -48,6 +48,7 @@ var DEVICE_FACTORY_REGISTRY = new DeviceFactoryRegistry(
  * your own helper.)
  */
 var HELPER_WHITELIST = new RequestHelperWhitelist();
+HELPER_WHITELIST.addAllowedExtension("knnmajdjdohgiaafnapmebclkglfabcj");
 
 /**
  * Registers the given extension as an external helper.
